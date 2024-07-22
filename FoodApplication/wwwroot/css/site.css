@@ -1,0 +1,45 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+.text-pink{
+    color: #ff1448 !important
+}
+.nav-linl{
+    letter-spacing: 2px;
+}
+#carouselExampleSlidesOnly {
+    height: 500px;
+}
+footer{
+    background-color: #0d243d;
+    height: 300px;
+}
+header{
+    z-index: 1000;
+}
+.dishCard{
+    height: 250px;
+}
+.fa-instagram {
+    color: #bc2a8d;
+}
+.fa-whatsapp {
+    color: #128c7e;
+}
+.fa-facebook {
+    color: #3b5998;
+}
+.fa-envelope {
+    color: #BB001B;
+}
